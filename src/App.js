@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={profileImage} className="profile-image" alt="profile-image" />
-        <h1>Frank Barrett</h1>
+        {/* <h1>Frank Barrett</h1> */}
         <p className="links">
           <a
             className="App-link"
@@ -29,13 +29,6 @@ function App() {
             target="_blank"
           >
             Instagram
-          </a>
-          <a
-            className="App-link"
-            href="https://facebook.com/fjbarrett"
-            target="_blank"
-          >
-            Facebook
           </a>
           <a
             className="App-link"
