@@ -6,8 +6,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h1>Frank Barrett</h1>
+        <h2>Developer</h2>
         <img src={profileImage} className="profile-image" alt="profile-image" />
-        {/* <h1>Frank Barrett</h1> */}
         <p className="links">
           <a
             className="App-link"
