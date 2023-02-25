@@ -33,13 +33,6 @@ function App() {
           </a>
           <a
             className="App-link"
-            href="https://twitch.com/fjbarrett"
-            target="_blank"
-          >
-            Twitch
-          </a>
-          <a
-            className="App-link"
             href="https://youtube.com/@FrankBarrett"
             target="_blank"
           >
