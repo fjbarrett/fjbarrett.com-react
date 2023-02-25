@@ -15,7 +15,7 @@
 
 .App-header {
   background-color: black;
-  font-size: "Open Sans";
+  font-family: "Open Sans";
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -23,6 +23,11 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+h1 {
+  margin: 25px 0 5px 0;
+  font-size: 1.6em;
 }
 
 .App-link {
@@ -39,7 +44,7 @@
 }
 
 .profile-image {
-  max-width: 150px;
+  max-width: 120px;
   border-radius: 50%;
 }
 
