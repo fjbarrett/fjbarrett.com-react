@@ -15,7 +15,7 @@ function App() {
             href="https://github.com/fjbarrett"
             target="_blank"
           >
-            Github
+            GitHub
           </a>
           <a
             className="App-link"
