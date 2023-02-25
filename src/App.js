@@ -44,6 +44,13 @@ function App() {
           >
             Twitch
           </a>
+          <a
+            className="App-link"
+            href="https://youtube.com/@FrankBarrett"
+            target="_blank"
+          >
+            YouTube
+          </a>
         </p>
       </header>
     </div>
